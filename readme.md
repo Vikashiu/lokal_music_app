@@ -225,6 +225,8 @@ MUSIC-APP-MAI
 ---
 
 ### Installation
+- clone the repo or download the zipfile
+- open folder
 
 ```bash
 npm install
@@ -232,7 +234,7 @@ npm install
 
 ## ▶️ Running the Development Server
 ```
-expo start
+npm expo start
 ```
 
 ### You can launch the app in multiple ways:
